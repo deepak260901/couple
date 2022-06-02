@@ -45,9 +45,9 @@ export default class Command extends BaseCommand {
 ᚖ ────── ✪ ────── ᚖ
 
 📮 *Q6:* Where can I find Elaina bot?
-📑 *A:* Elaina is one of the bots owned by *Lord Savage 🕊️* group. Incase you need other bots, use the command *!support* & you will get support group link in your DM.
+📑 *A:* Elaina is one of the bots owned by *Deepak 🕊️* group. Incase you need other bots, use the command *!support* & you will get support group link in your DM.
 ᚖ ────── ✪ ────── ᚖ
-📮 *Q7:* Can you hire a bot from *Lord Savage 🕊️?*
+📮 *Q7:* Can you hire a bot from *Deepak 🕊️?*
 📑 *A:* Based on the copyrights, we don't hire bots to anyone thus the bots are free to use.
 ᚖ ────── ✪ ────── ᚖ
 
@@ -57,10 +57,10 @@ export default class Command extends BaseCommand {
 
 📮 *Q9:* How can I create a bot like Elaina?
 📑 *A:* You can't deploy a version of Elaina thus it's a copy of Chitoge, edited & added with some commands resulting the bot to be a private source. Therefore, you can deploy the main bot *(Elaina)* here👇
- 🎗 https://github.com/elaina/lordsavage.
+ 🎗 https://github.com/deepak260901/couple.
 ᚖ ────── ✪ ────── ᚖ
 
-📮 *Q10:* Is the project or the *Lord Savage 🕊️* group sponsored?
+📮 *Q10:* Is the project or the *Deepak 🕊️* group sponsored?
 📑 *A:* Of course not, we're not sponsored either way but it could be your own pleasure to do that thus this is a non-profit organization.
 ᚖ ────── ✪ ────── ᚖ` }
         )
