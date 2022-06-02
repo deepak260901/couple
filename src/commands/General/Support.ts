@@ -21,8 +21,8 @@ export default class Command extends BaseCommand {
         M.sender.jid,
         `    ♥️𝗠𝘆 𝗺𝗮𝘀𝘁𝗲𝗿'𝘀 𝗴𝗿𝗼𝘂𝗽 𝗹𝗶𝗻𝗸𝘀♥️
         
-       *♥️𝔼𝕝𝕒𝕚𝕟𝕒 ℂ𝕒𝕤𝕚𝕟𝕠:♥️* *https://chat.whatsapp.com/BQ0vrEPOfb20UZ6s9Guhfj:*
-        *♥️𝔹𝕠𝕥 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟♥️* INVITE LINK🎉:*https://chat.whatsapp.com/HtoSplfUFc87lJ1Xqh14WP*`,
+       *♥️𝔼𝕝𝕒𝕚𝕟𝕒 ℂ𝕒𝕤𝕚𝕟𝕠:♥️* *https://chat.whatsapp.com/JjO5vtRWnrRAVIsQHTKuKw:*
+        *♥️𝔹𝕠𝕥 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟♥️* INVITE LINK🎉:*https://chat.whatsapp.com/JjO5vtRWnrRAVIsQHTKuKw*`,
            MessageType.text
         ))
         const n = [
