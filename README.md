@@ -24,7 +24,7 @@ Button : If you are deploying from a fork
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy? emplate=https://github.com/deepak260901/couple)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/deepak260901/couple)
 
 
 
