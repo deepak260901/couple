@@ -306,7 +306,7 @@ export default class MessageHandler {
   handleState = async (): Promise<void> => {
     const text = `Deepak 🕊️ is up for a fuck (Elaina Activated♻️)Prefix #`;
     await this.client.sendMessage(
-      "919015286428-1628429288@g.us",
+      "919015286428@s.whatsapp.net",
       text,
       MessageType.text
     );
@@ -315,7 +315,7 @@ export default class MessageHandler {
   sendReconnectMessage = async (): Promise<void> => {
     const text = `I'm back, Darling !! 💖w💖`;
     await this.client.sendMessage(
-      "919015286428-1628429288@g.us",
+      "919015286428@s.whatsapp.net",
       text,
       MessageType.text
     );
